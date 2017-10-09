@@ -1,0 +1,7 @@
+name: AutoWiki
+version: 1.0
+main: ninja.oscaz.autowiki.AutoWiki
+
+commands:
+  wiki:
+    aliases: [autowiki]
